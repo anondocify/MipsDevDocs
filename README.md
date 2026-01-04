@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="../mips-toolchain/extension/images/logo.png" width="128" alt="MIPS Dev Logo" />
-</div>
-
 # MIPS Dev Documentation
 
 ![Version](https://img.shields.io/badge/version-2.1.3-blue)
